@@ -13,7 +13,7 @@ Input : arr[] = [1, 2, 3, 4, 5, 6, 8, 9]
 Output : 7
 
 
-# Probelm 2
+# Problem 2
 
 A Min-Heap is a complete binary tree in which the value in each internal node is smaller than or equal to the values in the children of that node.
 Mapping the elements of a heap into an array is trivial: if a node is stored a index k, then its left child is stored at index 2k + 1 and its right child at index 2k + 2.
